@@ -8,7 +8,7 @@ color: hsl(238,50%,56%)
 
 # 非必须
 # not required
-icp: 苏ICP备xxxxxxx号
+# icp: 鲁ICP备xxxxxxx号
 
 # 是否启用左侧栏搜索input
 # Is the left column search input enabled
@@ -43,8 +43,8 @@ mermaid:
 # 文章评论，请遵守相关地区法律法规
 # Article comments, please comply with relevant regional laws and regulations
 valine:
-  appId: yourValineAppId
-  appKey: yourValineAppKey
+  appId: HSyJnxWh6xgOW5tISuT03C4U-gzGzoHsz
+  appKey: VenFYCgU7sCSQBGy3MVBFBOK
   avatar: monsterid
   cdn: //unpkg.com/valine@latest/dist/Valine.min.js
 
@@ -52,7 +52,7 @@ valine:
 #Home Weather Card - Wind Weather, Free Registration API Please visit: https://id.qweather.com/#/register
 weather:
   enable: true
-  cityCode: 101190101
+  cityCode: 101120501
   appKey: 6f89c60ce1714fa58018b5489aa697e5
 
 twikoo:

@@ -1,35 +1,36 @@
 ---
-title: resume
+title: 简历
 layout: cosy-resume
-name: Hi, I'm Mozzie
-avatar: /img/avatar.png
-email: himozzie@gmail.com
+name: Hi, I'm Rich
+avatar: /img/avatar.jpg
+email: richffan@outlook.com
 phone: +86 180-xxxx-xxx
-birth: Jan 21, 1994
-location: Nanjing, China
+birth: May 26, 1989
+location: Yantai, China
 social:
   - name: Github
-    link: https://github.com/17px
+    link: https://github.com/richbridge
     icon: <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24"><path d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2c2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2a4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6c-.6.6-.6 1.2-.5 2V21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>
 about:
-  - 我的工作是为您建立网站，使其功能完善、用户友好，同时又具有吸引力。
-  - 此外，我还会为您的产品添加个人风格，确保其醒目易用。我的目标是以最具创意的方式传达您的信息和身份。
+  - Life is just a joker.
+  - 'Life should be interesting.'
 
 skill:
-  - 熟悉 Node，具备后端开发能力，拥有 SpringBoot、Egg、Koa2 和 Midway 等单个应用程序项目的经验，以及 Nestjs 微服务应用程序项目的经验
-  - 拥有 Monorepo 工程方面的经验，具备将单一单元的前端和后端分离并应用 DevOps 的能力
-  - 熟悉 three.js，熟悉 Vtk.js，具有医疗 3D 前端和图形相关领域的开发经验
-  - 掌握基本的 Linux 命令，了解 Nginx 和 Docker 的基本用法
+  - CPA
+  - CTA
+  - LAW
+  - DESIGN
+  - PRO
 
 education:
-  - school: University School of the Arts
-    time: 2012-2016
+  - school: Shenzhen University
+    time: 2009-2013
 
 workExp:
   - inc: Creative Director
-    time: 2021.09 ~ 至今
+    time: 2024.09 ~ NOW
   - inc: Web Designer
-    time: 2021.01 ~ 2021.09
+    time: 2024.09 ~ NOW
 
 projectExp:
   - name: PC/React • Annotation, Algorithm Data Center

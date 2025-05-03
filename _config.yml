@@ -100,12 +100,12 @@ ignore:
 theme: cosy
 
 algolia:
-  appId: 15b7f271a6fe094b2cd8a79a1b1509fb
-  apiKey: 60b82738087e647fa20e94db92328519
-  adminApiKey: 60b82738087e647fa20e94db92328519
-  SearchOnlyAPIKey: 60b82738087e647fa20e94db92328519
-  chunkSize: 5000
-  indexName: fanrichio
+  appId: FTZP2J6FCQ
+  apiKey: ab3b56eeb2d29450df45cedf0628198b
+  adminApiKey: 9cbc92febdae304c2e2c1e0f5610027b
+  SearchOnlyAPIKey: e45ee8cb7e57f59fdfc446a93c960064
+  chunkSize: 2000
+  indexName: hexo-cosy
   fields:
     - content
     - excerpt:strip

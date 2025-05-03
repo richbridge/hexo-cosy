@@ -1,4 +1,4 @@
 ---
-title: cosy-preference
+title: 偏好
 layout: cosy-preference
 ---
